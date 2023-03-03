@@ -5487,7 +5487,7 @@ if (UI.dark_mode) {
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/cheems/goindex-extended/b46bb643bb1c1314b669142e5e62d96a877b952b/css/mdui_v2_dark.min.css">'
+    '<link rel="stylesheet" href="https://rawcdn.githack.com/tupaxman/goindex-extended/2e85659dc08caef80fc5f962068bb8e5ebc5145f/css/mdui_v2_dark.min.css">'
   );
 } else {
   document.write(
