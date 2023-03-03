@@ -5496,11 +5496,11 @@ if (UI.dark_mode) {
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/cheems/goindex-extended/f9af6b2192974a4a9c1b222efed8d29ca6cd1927/css/nexmoe_v2_dark.min.css">'
+    '<link rel="stylesheet" href="//gistcdn.githack.com/tupaxman/7d5f691dee2c0b9d293e1658245a7859/raw/3e8ddfd8b5baa98a77566753e65eb0112109aaed/nexmoe_v2_dark.min.css">'
   );
 } else {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/cheems/goindex-extended/f9af6b2192974a4a9c1b222efed8d29ca6cd1927/css/nexmoe_v2.min.css">'
+    '<link rel="stylesheet" href="//gistcdn.githack.com/tupaxman/e76ffb0276c02135a2860b52f89fba63/raw/1290280587624d4be7ae86d23f7be19927b0bd64/nexmoe_v2.min.css">'
   );
 }
 document.write(
