@@ -5487,11 +5487,11 @@ if (UI.dark_mode) {
 }
 if (UI.dark_mode) {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/cheems/goindex-extended/b46bb643bb1c1314b669142e5e62d96a877b952b/css/mdui_v2_dark.min.css">'
+    '<link rel="stylesheet" href="//gistcdn.githack.com/tupaxman/5f53f362fc2a670ce91bbc6d8bfa430f/raw/09be9639c097eefddfdcc7b2edd1198f6c72d76b/mdui_v2_dark.min.css">'
   );
 } else {
   document.write(
-    '<link rel="stylesheet" href="//rawcdn.githack.com/cheems/goindex-extended/b46bb643bb1c1314b669142e5e62d96a877b952b/css/mdui_v2.min.css">'
+    '<link rel="stylesheet" href="//gistcdn.githack.com/tupaxman/bc392fa6aae108d78780136816ac4397/raw/5455bde69259d0c5f9a8ed1925ba8cb84db3a562/mdui_v2.min.css">'
   );
 }
 if (UI.dark_mode) {
